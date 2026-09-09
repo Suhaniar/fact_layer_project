@@ -42,7 +42,7 @@ No API keys or paid services are required — everything runs locally against Ol
 
 Shows a PDF being processed end-to-end and all four required cases: corroboration, contradiction, contextual difference, and an extraction failure.
 
----
+"C:\Users\suhan\Videos\Screen Recordings\Screen Recording 2026-09-09 102833.mp4"
 
 ## Approach
 
